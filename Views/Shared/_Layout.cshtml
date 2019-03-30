@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Prova</title>
+    <script src="~/lib/FodaoJS.js"></script>
+
+    <script src="~/js/Index.js"></script>
+</head>
+<body>
+<div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; 2019 - Prova</p>
+        </footer>
+    </div>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

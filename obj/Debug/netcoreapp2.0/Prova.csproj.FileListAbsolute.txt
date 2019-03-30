@@ -1,0 +1,11 @@
+D:\Prova\Prova\bin\Debug\netcoreapp2.0\Prova.deps.json
+D:\Prova\Prova\bin\Debug\netcoreapp2.0\Prova.runtimeconfig.json
+D:\Prova\Prova\bin\Debug\netcoreapp2.0\Prova.runtimeconfig.dev.json
+D:\Prova\Prova\bin\Debug\netcoreapp2.0\Prova.dll
+D:\Prova\Prova\bin\Debug\netcoreapp2.0\Prova.pdb
+D:\Prova\Prova\obj\Debug\netcoreapp2.0\Prova.csprojResolveAssemblyReference.cache
+D:\Prova\Prova\obj\Debug\netcoreapp2.0\Prova.csproj.CoreCompileInputs.cache
+D:\Prova\Prova\obj\Debug\netcoreapp2.0\Prova.AssemblyInfoInputs.cache
+D:\Prova\Prova\obj\Debug\netcoreapp2.0\Prova.AssemblyInfo.cs
+D:\Prova\Prova\obj\Debug\netcoreapp2.0\Prova.dll
+D:\Prova\Prova\obj\Debug\netcoreapp2.0\Prova.pdb
